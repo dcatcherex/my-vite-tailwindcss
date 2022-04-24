@@ -6,8 +6,8 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <div className="App">
-      <header className="App-header">
+    <div className="text-3xl  font-bold underline border-r-8">
+      <header className="bg-white ">
         <img src={logo} className="App-logo" alt="logo" />
         <p>Hello Vite + React!</p>
         <p>
